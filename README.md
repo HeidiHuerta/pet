@@ -1,4 +1,9 @@
 # pet
-Este es un proyecto de ejemplo
-Estas son mis lineas adicionales
-Esta es otra linea....
+Proyecto Modular
+--------------------------
+Este proyecto es para el modular II
+
+Integrantes
+------------
+Heidi Huerta
+Luis Castro
